@@ -3,7 +3,7 @@
 Play module files in your kha project!
 
 Supported targets:
-- Native (C++) :  requires [libopenmpt](https://lib.openmpt.org/libopenmpt/download/) &  [requires Kore MPT](https://github.com/Disar/KMPT)
+- Native (C++) :  requires [libopenmpt](https://lib.openmpt.org/libopenmpt/download/) &  [requires Kore MPT](https://github.com/Disar/KoreMPT)
 - HTML5: requires [Chiptune2](https://github.com/deskjet/chiptune2.js)
 
 # Installation
